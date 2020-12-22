@@ -1,5 +1,5 @@
-Die Versionen unterscheiden sich im sketch 'profile'
-Dicke im Biegebereich. Und Radius vor dem Biegebereich.
+Die Versionen unterscheiden sich im Sketch 'profile'
+in der Dicke im Biegebereich und im Radius vor dem Biegebereich.
   
 Name  |	Dicke |	Radius
       |	mm    | mm
@@ -14,5 +14,3 @@ n5	6	2[eckig]
 
 Serienproduktion 100 Stück mit Stollen_n10 und XYD FLEX-1 TPU, 240°, 75% von 60mm/s, external 35, infill 120
 http://www.ebay.de/itm/3D-Drucker-1kg-Filament-Rolle-TPU-Schwarz-Transparent-Gelb-Rot-Gruen-Schwarz-Blau-/353176014112
-
-TPU von extrudr.com oder devildesign.pl funktioniert nicht.
