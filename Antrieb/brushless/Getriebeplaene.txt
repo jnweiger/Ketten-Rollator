@@ -1,0 +1,94 @@
+Schneckengetriebe
+-----------------
+
+https://www.ebay.de/itm/294011299368
+	12 EUR, Modul 0.5, "Teilkreis" ca 10mm, innen 1.8mm
+
+https://www.voelkner.de/products/280948/Messing-Stahl-Schneckenradsatz-Modul-Typ-0.5-Anzahl-Zaehne-60.html
+	17 EUR
+
+https://www.kaufland.de/product/348685117/?msclkid=57d0f3df497a18afdf3691b25019512a&utm_source=bing&utm_medium=cpc&utm_campaign=SC_SSC_items_lowPrice&utm_term=4582695766052161&utm_content=SSC_lowPrice
+https://www.kaufland.de/product/348685117
+	7.34 EUR
+
+https://www.ebay.de/itm/274641958042
+	Schnecke M0.5 Aussendurchmesser 9.8mm, i 3.17mm 11.61 EUR, CH
+https://www.ebay.de/itm/284141439875
+	Schnecke M0.5 Aussendurchmesser 9.7mm, i 3mm, 11.43 EUR, CH
+
+
+https://www.ebay.de/itm/174729261606
+	Schnecke M0.5 Aussendurchmesser 7mm, 5.09 EUR, CH
+https://www.ebay.de/itm/384759731691
+	Schnecke M0.5 Aussendurchmesser 7mm, 7.64 EUR, CH
+
+https://www.ebay.de/itm/164924745587
+	Schnecke M0.5 Aussendurchmesser 7mm, 7.06 EUR, CH
+
+https://www.ebay.de/itm/313164402048
+	Schnecke M0.5 Aussendurchmesser 7mm, 6.89 EUR, CH
+
+https://www.ebay.de/itm/191556840964
+	Schnecke M0.5 Aussendurchmesser 6mm, 9.50 EUR, DE
+https://www.ebay.de/itm/191556840925
+	Schnecke M0.5 Aussendurchmesser 6mm, 2 Stück, 14.70 EUR, DE
+
+
+https://www.ebay.de/itm/284709423738
+	Schnecke M0.5 Aussendurchmesser 5.5mm, 4.95 EUR, DE
+
+
+
+
+https://www.ebay.de/itm/304066310989
+	48.08 EUR Brushless, 12V 90rpm , evtl doch DC, ein Draht nicht angeschlossen ??
+
+
+https://www.robotshop.com/de/de/fensterhebermotor-mit-kupplung-rechts.html
+ -> 22,56 €  60 ± 15 RPM, Strom (keine Last): <5A, Nennstrom (Last): <15A, Blockierstrom: <28A bei 12V
+	Nenndrehmoment: 30Kg.cm (2.9Nm), Stillstandsdrehmoment (gesperrt): 100 ± 15Kg.cm (~ 10N.m), Gewicht 696g
+
+https://www.pollin.de/p/getriebemotor-5503740-12v-spindel-310842
+	7,95 €  , Stromaufnahme: max. 22 A bei 6 V-/84 U/min, bei 12 V-/180 U/min
+		Motor-Ø 49 mm, Maße ohne Spindel (LxBxH): 144x63x60 mm
+
+https://www.pollin.de/p/gleichstrom-getriebemotor-my2007u222-12-v-310554
+	6,95 €, Maximal-Stromaufnahme: 27 A, Drehzahl bei 12 V-: max. 580 U/min, Drehmoment: max. 1,8 Nm
+	durchgehende quadratische Hohlwelle 4x4 mm, 850gr
+
+https://www.ebay.de/itm/403462275677
+	48 EUR, 100rpm, 16kg/cm , Motor TRS-868SB, 22W
+
+https://www.ebay.de/itm/284623252259
+	55 EUR, 1.2kg, 24V, 107rpm, 28 kg/cm
+
+https://de.aliexpress.com/item/4001293433900.html
+https://www.ebay.de/itm/284608375242
+	37.47 EUR, 24V, 125rpm, 70kg/cm
+	CHW-GW4058-555ABHL , 450g
+
+
+
+
+Stirnradgetriebe
+----------------
+
+Einkauf: 2x 4.10 EUR +zzgl 5 EUR Versand
+https://www.fechtner-modellbau.de/material/mechanik/zahnraeder-zahnstangen/modul-0-5/10485/stahl-zahnrad-modul-0-5-18-zaehne-bohrung-5-0mm-1
+
+>>> 1130*12
+13560
+>>> 1130*12*10/150
+904.0
+>>> 1130*12*10/150*18/180
+90.4
+>>> 1130*12*11/150*18/180
+99.44
+>>> 1130*14*11/150*18/180
+116.01333333333334
+>>> 1130*15*11/150*18/180
+124.3
+>>> 1130*10*11/150*18/180
+82.86666666666666
+>>>
+
