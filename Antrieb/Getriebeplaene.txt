@@ -1,5 +1,6 @@
 Schneckengetriebe
 -----------------
+Die eingebaute Schnecke im GW31ZY hat 8mm Durchm,
 
 https://www.ebay.de/itm/294011299368
 	12 EUR, Modul 0.5, "Teilkreis" ca 10mm, innen 1.8mm
@@ -18,7 +19,7 @@ https://www.ebay.de/itm/284141439875
 
 
 https://www.ebay.de/itm/174729261606
-	Schnecke M0.5 Aussendurchmesser 7mm, 5.09 EUR, CH
+	Schnecke M0.5 Aussendurchmesser 7mm, 5.09 EUR, CH	2x bestellt!
 https://www.ebay.de/itm/384759731691
 	Schnecke M0.5 Aussendurchmesser 7mm, 7.64 EUR, CH
 
@@ -38,11 +39,34 @@ https://www.ebay.de/itm/284709423738
 	Schnecke M0.5 Aussendurchmesser 5.5mm, 4.95 EUR, DE
 
 
+Schiebedachmotoren
+------------------
+https://www.ebay.de/itm/202590463210
+	Niedec NRAL0031-00, 12V, 40 EUR gebraucht.
+
+https://www.ebay.de/itm/264715145155
+	Niedec NRAL0031-00, 12V, 139 EUR neu.
+
+https://www.ebay.de/itm/325152879445
+	Webasto, Audi A4, 12V, 10.85 EUR gebraucht.
+
+
+
+https://www.elektromotore.eu/antriebstechnik/schneckengetriebemotore/cm3g/405884
+	405884, 4Nm, 125 rpm, 12V, Keine Gewichtsangabe. Leistung geschätzt: 40W
+https://antrimon.ch/shop/Motoren-Antriebe/DC-Motoren-buerstenbehaftet/DC-Getriebemotor/Baureihe-CM3G.html
+	8.8Nm, 113 rpm, 12V, 72W,
+	12.5Nm, 240 rpm, 24V, 216W
+https://www.eissesbv.nl/nl/producten/electromotoren/cm3g/groups/g+a+view
+	405884, 12V, 195 EUR
+
+https://de.rs-online.com/web/p/gleichstrommotoren/7736784
+	209 EUR, 12V, 3Nm, 1.25kg
+
 
 
 https://www.ebay.de/itm/304066310989
 	48.08 EUR Brushless, 12V 90rpm , evtl doch DC, ein Draht nicht angeschlossen ??
-
 
 https://www.robotshop.com/de/de/fensterhebermotor-mit-kupplung-rechts.html
  -> 22,56 €  60 ± 15 RPM, Strom (keine Last): <5A, Nennstrom (Last): <15A, Blockierstrom: <28A bei 12V
@@ -67,11 +91,39 @@ https://www.ebay.de/itm/284608375242
 	37.47 EUR, 24V, 125rpm, 70kg/cm
 	CHW-GW4058-555ABHL , 450g
 
+https://www.ebay.de/itm/153797228403
+	Nidec Motor NSAM0660-00 P1-23936-01
+	10 EUR, 12V ink Schnecke
 
 
 
 Stirnradgetriebe
 ----------------
+
+https://www.ebay.de/itm/175154780868
+  18.55 EUR, 35 W, 12V, 490g,
+  Kunstoffgetriebe RS550 	ca 1:70 	https://i.ebayimg.com/images/g/GS0AAOSw4kNg~-KX/s-l1600.jpg
+  (Kunstoffgetriebe RS380 	-> Motor 380 )
+
+https://de.aliexpress.com/item/1005003274661839.html
+	Alle Getriebeteile für Kinderautogetriebe...
+	550 A) 41:10 * 48:11 * 56:(14?)		-> 71.56:1
+	550 B) 37:10 * 50:12 * 64:(14?)		-> 70.48:1
+	550 C) 42:10 * 50:13 * 56:(14?)		-> 64.62:1
+	390 A) 51:10 * 54:8  * 67:(14?)		-> 164.7:1
+	390 B) 43:8  * 53:8  * 67:(14?)		-> 170.4:1
+
+	390: ca. 18 W
+	550: ca. 20-35 W	Ritzel 9Z .. 14Z	10Z ~ ca 1:100
+
+
+
+https://www.ebay.de/itm/393756419913
+  27.14 EUR, 2 Stück. 550-30000RPM
+
+https://www.amazon.de/gp/product/B094NMP8J3/
+	28 EUR, 550-10000, 600g
+
 
 Einkauf: 2x 4.10 EUR +zzgl 5 EUR Versand
 https://www.fechtner-modellbau.de/material/mechanik/zahnraeder-zahnstangen/modul-0-5/10485/stahl-zahnrad-modul-0-5-18-zaehne-bohrung-5-0mm-1
