@@ -8,7 +8,6 @@ https://www.ebay.de/itm/294011299368
 https://www.voelkner.de/products/280948/Messing-Stahl-Schneckenradsatz-Modul-Typ-0.5-Anzahl-Zaehne-60.html
 	17 EUR
 
-https://www.kaufland.de/product/348685117/?msclkid=57d0f3df497a18afdf3691b25019512a&utm_source=bing&utm_medium=cpc&utm_campaign=SC_SSC_items_lowPrice&utm_term=4582695766052161&utm_content=SSC_lowPrice
 https://www.kaufland.de/product/348685117
 	7.34 EUR
 
@@ -50,15 +49,24 @@ https://www.ebay.de/itm/264715145155
 https://www.ebay.de/itm/325152879445
 	Webasto, Audi A4, 12V, 10.85 EUR gebraucht.
 
+https://www.ebay.de/itm/351350351349
+	EUR 19,99, Schiebedachmotor VW Phaeton Touareg Schiebedach 3D0959591C
+
+https://www.ebay.de/itm/384697106047
+	405884, BMW 7424804, 49 EUR
+	5er, 6er
+
 
 
 https://www.elektromotore.eu/antriebstechnik/schneckengetriebemotore/cm3g/405884
-	405884, 4Nm, 125 rpm, 12V, Keine Gewichtsangabe. Leistung geschätzt: 40W
+	405884, 4Nm, 125 rpm, 12V, 500g. Leistung geschätzt: 40W
+	BMW 7424804 9929003888
 https://antrimon.ch/shop/Motoren-Antriebe/DC-Motoren-buerstenbehaftet/DC-Getriebemotor/Baureihe-CM3G.html
 	8.8Nm, 113 rpm, 12V, 72W,
 	12.5Nm, 240 rpm, 24V, 216W
 https://www.eissesbv.nl/nl/producten/electromotoren/cm3g/groups/g+a+view
 	405884, 12V, 195 EUR
+	BMW 7424804 9929003888
 
 https://de.rs-online.com/web/p/gleichstrommotoren/7736784
 	209 EUR, 12V, 3Nm, 1.25kg
