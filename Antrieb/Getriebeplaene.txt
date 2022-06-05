@@ -1,3 +1,7 @@
+https://www.instructables.com/Complete-Motor-Guide-for-Robotics/
+
+
+
 Schneckengetriebe
 -----------------
 Die eingebaute Schnecke im GW31ZY hat 8mm Durchm,
@@ -7,6 +11,7 @@ https://www.ebay.de/itm/294011299368
 
 https://www.voelkner.de/products/280948/Messing-Stahl-Schneckenradsatz-Modul-Typ-0.5-Anzahl-Zaehne-60.html
 	17 EUR
+
 
 https://www.kaufland.de/product/348685117
 	7.34 EUR
@@ -37,6 +42,10 @@ https://www.ebay.de/itm/191556840925
 https://www.ebay.de/itm/284709423738
 	Schnecke M0.5 Aussendurchmesser 5.5mm, 4.95 EUR, DE
 
+Fensterhebermotoren
+-------------------
+https://www.ebay.de/itm/180888880280?_
+	10 EUR, Siemens, 1J4959811C, VW Bora hinten links/rechts, Brose Motor.
 
 Schiebedachmotoren
 ------------------
@@ -112,6 +121,20 @@ https://www.ebay.de/itm/313977420930
 	Bosch Elektrisches Schiebedach VW Polo 9N
 	8 EUR, Leerlauf bei 12V: 133 U/min, 1.03 A, 680gr
 
+https://de.aliexpress.com/item/1005003211670742.html
+	tsinymotors.com, Modellnummer: 40GZ868
+	15-Tage Lieferung, 25.17 EUR + 17.69 EUR
+	12v, 80RPM, 630gr, 22W
+
+https://de.aliexpress.com/item/1005003404181425.htm
+	39.74 + 11.23 EIR
+
+Regler
+======
+https://de.aliexpress.com/item/32737889284.html
+	DC12/48RT100BL-XW
+https://de.aliexpress.com/item/4001131681581.html
+	ZZ
 
 
 Stirnradgetriebe
