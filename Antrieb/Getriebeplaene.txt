@@ -2,29 +2,46 @@ https://www.instructables.com/Complete-Motor-Guide-for-Robotics/
 
 Direct Drive Brushless
 ----------------------
+
+8308
+https://de.aliexpress.com/item/1005003825947045.html
+	64 EUR, X8308 (Q9026) BLDC, Large scale UAV Engine 100KV 1300W, max 750 W, 280gr, 90mm diam.
+https://de.aliexpress.com/item/4000437228071.html
+	75 + 11 EUR, 8308 Q9 Multirotor,  100kv, 280gr, 90mm diam. max 750 W, 
+
+https://de.aliexpress.com/item/1005004271748314.html
+	439 EUR, 315gr, 87mm diam, GL80 30kv 60kv 100w 200w 300w 400w 30mm hohlwelle hohe prescision niedriger geschwindigkeit gimble motor
+	Configuration: 36N42P, 24V, 350 RPM, 0.35 Nm/A, Stall: 4.6 A, 1.75 Nm
+https://de.aliexpress.com/item/1005003388286370.html
+	102 EUR, Custom kv(!), EA90 Neue 105KV 125KV Bürstenlosen Motor EAGLEPOWER 8018
+
 https://www.amazon.de/-/en/SUNJULY-Scooter-Instrument-Display-Xiaomi/dp/B07XLKSQ6C/
 https://www.amazon.de/dp/B09DY7XXPM/
 	51 EUR, 150 W bldc, 5.5", 1950gr
-https://de.aliexpress.com/item/32713798468.html
-	122 EUR, 3200 W max, RW.RC 8318 60KV Motor Für Rc Multicopter Drone 3080 Requisiten, 630gr
-https://de.aliexpress.com/item/32965130263.html
-	188 EUR, Sunnysky X8318S 100KV 120KV Bürstenlosen Motor für Anlage Schutz Maschine RC Drone, 637gr
-	44V: 0.6A -> 27W, 4.6A -> 204W, max 1900 W. 92 mm diam.
+
 https://de.aliexpress.com/item/1005002951846750.html
 	48 EUR, 7025 TYI-POWER Äußere Rotor Bürstenlosen Motor 170KV, 24p, 87mm diam. 261g, max 1200 W.
-https://de.aliexpress.com/item/1005002951597132.html
-	63 EUR, 8318 KV110 Bürstenlosen CW/ CCW Motor EA95 Verbesserte version Q9XL 8-12S, 650gr, max 3500 W.
-https://de.aliexpress.com/item/1005003825947045.html
-	64 EUR, X8308 (Q9026) BLDC, Large scale UAV Engine 100KV 1300W, max 750 W, 280gr, 90mm diam.
-https://de.aliexpress.com/item/1005002943051855.html
-	8318 HLY Power motor landwirtschaft drone motor Adler power Q9XL UAV Geeignet für 3080 Propeller EP-80A ES
-https://de.aliexpress.com/item/4000437228071.html
-	75 + 11 EUR, 8308 Q9 Multirotor,  280gr, 90mm diam. max 750 W, 
 https://de.aliexpress.com/item/1005002951710832.html
 	36 EUR, 300kv, 59mm diam, 200gr, max 1100 W, 
 https://de.aliexpress.com/item/1005003950082768.html
 	135 EUR (2 pieces), 325gr, EA65 kv180
-	
+https://de.aliexpress.com/item/1005002945415508.html
+	86 + 11 EUR, 120KV, UA90 Eaglepower UA serie 8010, 368gr, max 2000 W
+https://de.aliexpress.com/item/32708945041.html
+	48 EUR, 175KV, 383gr, 7210 Bürstenlosen Motor, Konfiguration: 36N42P
+
+8318
+https://de.aliexpress.com/item/32713798468.html
+	122 EUR, 3200 W max, RW.RC 8318 60KV Motor Für Rc Multicopter Drone 3080 Requisiten, 630gr
+https://de.aliexpress.com/item/1005002940580005.html
+	100KV, 91mm diam. A12 ( 8318) Schweizer Motor Bürstenlosen Außenläufer motor
+https://de.aliexpress.com/item/1005002943051855.html
+	8318 HLY Power motor landwirtschaft drone motor Adler power Q9XL UAV Geeignet für 3080 Propeller EP-80A ES
+https://de.aliexpress.com/item/1005002951597132.html
+	63 EUR, 8318 KV110 Bürstenlosen CW/ CCW Motor EA95 Verbesserte version Q9XL 8-12S, 650gr, max 3500 W.
+https://de.aliexpress.com/item/32965130263.html
+	188 EUR, Sunnysky X8318S 100KV 120KV Bürstenlosen Motor für Anlage Schutz Maschine RC Drone, 637gr
+	44V: 0.6A -> 27W, 4.6A -> 204W, max 1900 W. 92 mm diam.
 
 
 
